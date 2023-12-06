@@ -1,0 +1,10 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
+sexo = input("Digite seu sexo (M ou F): ")
+telefone = int(input("Digite seu telefone: "))
+
+print("\nInformações fornecidas:")
+print("Nome:", nome)
+print("Idade:", idade)
+print("Sexo:", sexo)
+print("Telefone:", telefone)
